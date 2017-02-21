@@ -9,8 +9,18 @@ body {
     /* DO NOT CHANGE THESE */
     font-family: Verdana, Arial, sans-serif;
 }
+main{
+  display:flex;
+  justify-content: space-around;
+  flex-grow: 5;
+}
+aside{
+  flex-grow:1;
+}
+.container{
+  display:flex;
 
-
+}
 .hero {
 
     /* DO NOT CHANGE THESE */
@@ -34,6 +44,7 @@ body {
     background-color: #dddddd;
     border: 1px solid #444444;
     height: 20em; /* this is just so we can see the articles since they have no content */
+
 }
 
 
@@ -42,6 +53,7 @@ body {
     /* DO NOT CHANGE THESE */
     background-color: #aaaaaa;
     color: #444444;
+
 }
 
 .sidebar section {
@@ -51,6 +63,7 @@ body {
     background-color: #dddddd;
     border: 1px solid #444444;
     height: 10em; /* this is just so we can see the articles since they have no content */
+
 }
 
 
