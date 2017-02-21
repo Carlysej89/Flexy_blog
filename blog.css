@@ -11,14 +11,17 @@ body {
 }
 main{
   display:flex;
-  justify-content: space-around;
   flex-grow: 5;
+  flex-wrap:wrap;
+  justify-content: space-around;
 }
 aside{
   flex-grow:1;
+
 }
 .container{
   display:flex;
+
 
 }
 .hero {
@@ -37,6 +40,7 @@ aside{
 
     /* DO NOT CHANGE THESE */
     color: #444444;
+
 }
 .posts article {
 
@@ -44,6 +48,7 @@ aside{
     background-color: #dddddd;
     border: 1px solid #444444;
     height: 20em; /* this is just so we can see the articles since they have no content */
+    flex:0 0 40%;
 
 }
 
