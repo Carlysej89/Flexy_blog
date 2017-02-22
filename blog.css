@@ -22,7 +22,8 @@ body {
     color: #ffffff;
 }
 .container{
-  
+    
+
 }
 
 .posts {
@@ -36,7 +37,7 @@ body {
     background-color: #dddddd;
     border: 1px solid #444444;
     height: 20em; /* this is just so we can see the articles since they have no content */
-
+    margin: 1em;
 }
 
 .sidebar {
