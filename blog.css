@@ -31,19 +31,29 @@ aside {
 
 }
 .hero {
+    align-items: center;
     height: 10em;
     display: flex;
     justify-content: space-between;
     /* DO NOT CHANGE THESE */
     background-color: #444444;
 }
+.hero nav{
+  align-self: flex-end;
+  margin-bottom: 1em;
+}
 .hero h1 {
-
+  margin-left: 2em;
     /* DO NOT CHANGE THESE */
     color: #ffffff;
 }
-
-
+.hero ul {
+  list-style: none;
+  display: flex;
+}
+.hero li{
+  margin-right: 1em;
+}
 .posts {
 
     /* DO NOT CHANGE THESE */
