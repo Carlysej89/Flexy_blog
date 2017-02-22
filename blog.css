@@ -14,6 +14,7 @@ main{
   flex-grow: 5;
   flex-wrap:wrap;
   justify-content:space-around;
+  
 
 }
 aside{
@@ -23,6 +24,9 @@ aside{
 }
 .container{
   display:flex;
+
+
+
 
 
 
@@ -54,6 +58,7 @@ aside{
     flex:0 0 40%;
     margin: 20px 0;
 
+
 }
 
 
@@ -62,6 +67,7 @@ aside{
     /* DO NOT CHANGE THESE */
     background-color: #aaaaaa;
     color: #444444;
+
 
 
 
