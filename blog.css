@@ -21,10 +21,6 @@ body {
     /* DO NOT CHANGE THESE */
     color: #ffffff;
 }
-.container{
-    
-
-}
 
 .posts {
 
@@ -45,6 +41,8 @@ body {
     /* DO NOT CHANGE THESE */
     background-color: #aaaaaa;
     color: #444444;
+    padding: 1em;
+
 }
 
 .sidebar section {
@@ -54,6 +52,8 @@ body {
     background-color: #dddddd;
     border: 1px solid #444444;
     height: 10em; /* this is just so we can see the articles since they have no content */
+    margin: 2em;
+    padding: 1em;
 }
 
 
