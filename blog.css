@@ -31,7 +31,9 @@ aside {
 
 }
 .hero {
-
+    height: 10em;
+    display: flex;
+    justify-content: space-between;
     /* DO NOT CHANGE THESE */
     background-color: #444444;
 }
