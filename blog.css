@@ -14,7 +14,7 @@ main{
   flex-grow: 5;
   flex-wrap:wrap;
   justify-content:space-around;
-  
+
 
 }
 aside{
@@ -24,9 +24,6 @@ aside{
 }
 .container{
   display:flex;
-
-
-
 
 
 
@@ -47,6 +44,8 @@ aside{
 
     /* DO NOT CHANGE THESE */
     color: #444444;
+    display:flex;
+    justify-content:space-around;
 
 }
 .posts article {
@@ -56,7 +55,7 @@ aside{
     border: 1px solid #444444;
     height: 20em; /* this is just so we can see the articles since they have no content */
     flex:0 0 40%;
-    margin: 20px 0;
+    margin: 1em 0;
 
 
 }
@@ -67,6 +66,9 @@ aside{
     /* DO NOT CHANGE THESE */
     background-color: #aaaaaa;
     color: #444444;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
 
 
@@ -80,7 +82,7 @@ aside{
     background-color: #dddddd;
     border: 1px solid #444444;
     height: 10em; /* this is just so we can see the articles since they have no content */
-    display: flex;
+    width: 90%;
     margin: 20px 0;
 }
 
