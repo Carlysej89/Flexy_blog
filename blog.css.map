@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAEA,KAAK;EACD,gBAAgB,EAAE,OAAO;EACzB,QAAE;IACA,KAAK,EAAE,OAAO",
-"sources": ["sass/hero.scss"],
+"mappings": "AAEA,KAAM;EACF,gBAAgB,EAAE,OAAO;EACzB,QAAG;IACD,KAAK,EAAE,OAAO;;ACLpB,QAAS;EACL,gBAAgB,EAAE,OAAO;EACzB,KAAK,EAAE,OAAO;EACd,OAAO,EAAE,GAAG;EAEZ,gBAAQ;IACN,gBAAgB,EAAE,OAAO;IACzB,MAAM,EAAE,iBAAiB;IACzB,MAAM,EAAE,IAAI;IACZ,MAAM,EAAE,GAAG;IACX,OAAO,EAAE,GAAG",
+"sources": ["sass/hero.scss","sass/sidebar.scss"],
 "names": [],
 "file": "blog.css"
 }

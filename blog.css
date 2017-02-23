@@ -3,4 +3,15 @@
   .hero h1 {
     color: #ffffff; }
 
+.sidebar {
+  background-color: #aaaaaa;
+  color: #444444;
+  padding: 1em; }
+  .sidebar section {
+    background-color: #dddddd;
+    border: 1px solid #444444;
+    height: 10em;
+    margin: 2em;
+    padding: 1em; }
+
 /*# sourceMappingURL=blog.css.map */
