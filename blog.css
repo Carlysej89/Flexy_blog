@@ -14,4 +14,12 @@
     margin: 2em;
     padding: 1em; }
 
+.posts {
+  color: #444444; }
+  .posts article {
+    background-color: #dddddd;
+    border: 1px solid #444444;
+    height: 20em;
+    margin: 1em; }
+
 /*# sourceMappingURL=blog.css.map */
